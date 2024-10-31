@@ -1,4 +1,4 @@
-# SIWSIWIT
+# SIWSIWIT AI
 
 VB.NET + LLM test
 
